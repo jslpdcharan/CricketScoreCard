@@ -45,6 +45,11 @@
 			path = CricketScoreCardUITests;
 			sourceTree = "<group>";
 		};
+		6FF4E0B12D7B8CA000E5A401 /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		570377FD2D7B654100FE26EB = {
 			isa = PBXGroup;
 			children = (
+				6FF4E0B12D7B8CA000E5A401 /* Models */,
 				570378082D7B654100FE26EB /* CricketScoreCard */,
 				570378192D7B654400FE26EB /* CricketScoreCardTests */,
 				570378232D7B654400FE26EB /* CricketScoreCardUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				570378082D7B654100FE26EB /* CricketScoreCard */,
+				6FF4E0B12D7B8CA000E5A401 /* Models */,
 			);
 			name = CricketScoreCard;
 			packageProductDependencies = (
